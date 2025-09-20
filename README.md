@@ -3,7 +3,7 @@
 ![Case Study](https://img.shields.io/badge/Type-Case%20Study-purple)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
-# YouTube (Google) — Project Management Case Study
+# YouTube — Project Management Case Study
 
 **Author:** Rachel Goldsbury  
 **Course:** QSO-645 Project Management · **Instructor:** Jimmie Flores  
@@ -11,13 +11,13 @@
 
 ---
 
-## 📄 Quick Links
+## Quick Links
 - **Full paper (PDF):** [youtube_project_management_analysis.pdf](./youtube_project_management_analysis.pdf)
 
 ---
 
-## 🧭 Executive Summary
-This case study evaluates **YouTube (by Google)** through established **project management methodologies** (PMBOK) and agile practices. It reviews **scope, stakeholders, schedule, budget, risks, controls, communication, resource management, procurement,** and **project control techniques**, then offers actionable recommendations for improving delivery, governance, and collaboration.
+## Executive Summary
+This case study evaluates **YouTube** through established **project management methodologies** (PMBOK) and agile practices. It reviews **scope, stakeholders, schedule, budget, risks, controls, communication, resource management, procurement,** and **project control techniques**, then offers actionable recommendations for improving delivery, governance, and collaboration.
 
 **Highlights**
 - **Scope:** Focus on creator tools, streaming performance, user safety/privacy; success criteria include engagement, upload efficiency, and ad revenue growth.
@@ -29,7 +29,7 @@ This case study evaluates **YouTube (by Google)** through established **project 
 
 ---
 
-## 🔍 What’s Inside (at a glance)
+##  What’s Inside
 - **Key Project Details & Scope** — agile foundation, creator experience, streaming, and trust/safety.
 - **Stakeholder Analysis** — priorities and collaboration patterns; staffing challenges & cross-training.
 - **Planning & Schedule** — Kanban, WBS, stand-ups; handling timeline discrepancies and shifting priorities.
@@ -43,7 +43,7 @@ This case study evaluates **YouTube (by Google)** through established **project 
 
 ---
 
-## 🎯 Skills Demonstrated (recruiter view)
+## Skills Demonstrated
 - PMBOK knowledge areas & process groups
 - Agile execution (sprints, Kanban) and stakeholder management
 - Budget/risk framing; recommends **EVM** and predictive planning
@@ -55,6 +55,3 @@ This case study evaluates **YouTube (by Google)** through established **project 
 - `youtube_project_management_analysis.pdf` — full write-up (sources cited)
 
 ---
-
-## License
-MIT (optional) — add a `LICENSE` file if you want reuse.
