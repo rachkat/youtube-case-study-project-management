@@ -1,3 +1,8 @@
+![PMBOK](https://img.shields.io/badge/Framework-PMBOK-blue)
+![Agile](https://img.shields.io/badge/Methodology-Agile-orange)
+![Case Study](https://img.shields.io/badge/Type-Case%20Study-purple)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
 # YouTube (Google) — Project Management Case Study
 
 **Author:** Rachel Goldsbury  
